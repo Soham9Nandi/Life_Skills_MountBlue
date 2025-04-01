@@ -15,3 +15,6 @@
 - It consists of two layers, the *Storage Layer* and the *Compute Layer*.
 - This enables efficient, real-time data ingestion, streaming data pipelines, and storage access.
 - It's designed to facilitate simplified data streaming between itself and external systems.
+
+## Reference and Further Reading
+- https://www.confluent.io/what-is-apache-kafka/
